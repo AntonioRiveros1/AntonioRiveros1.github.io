@@ -33,15 +33,16 @@ body {
     align-items: center;
     display: flex;
     padding: 20px 0px 20px 0 ;
+    
 }
 
 
 /*pantalla donde se ven los numeros*/
 .screen input{
     width: 88%;
-    color: black !important;
     height: 40px;
     padding-left: 14px;
+    color: white !important;
 }
 
 
